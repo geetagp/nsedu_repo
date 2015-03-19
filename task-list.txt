@@ -1,0 +1,32 @@
+Task list: Neosemantix project
+
+1) Front end framework code 
+    - load library dependancies 
+	- main.js , require.js , app.js (10 hrs)
+2) Create index.html with bootstrap classes 
+   - use fluid responsive design - mobile first (2 hours)
+3) Create html templates 
+   - header.html
+   - main or home.html 
+   - sidebar.htmml
+   - footer.html (8 hrs)
+4) Create models 
+   - commentary model
+   - aroundtheworld model
+   - adsmodel (10 hrs)
+5) Create views
+   - headerview
+   - mainview with commentary and aroundtheworld
+   - sidebarview
+   - footerview (5 hours)
+6) intergrate with REST API calls (10 hours)
+7) integrate with router.js web client calls (5 hours)
+8) host the application on public website
+8) test on different desktop browsers
+9) test on mobile platform ipad,iphone
+10) use css prepocessor to make changes to default css , if needed (10 hours)
+11) minify client side project files using optimizer
+12) GIT Check-in, Check-out usage
+
+   
+
